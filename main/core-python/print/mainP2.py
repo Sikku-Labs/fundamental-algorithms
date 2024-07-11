@@ -5,8 +5,6 @@ bhatoresiddharth@gmail.com
 11 July 2024
 """
 
-from print import Print
-
 class Solution:
   def __init__(self):
     pass
@@ -16,7 +14,7 @@ class Solution:
     if i == n:
       return
     else:
-      P1.printString(s[i])
+      print(s[i], end = "")
       mainP2Aux(self, s, n, i + 1)
     return None
 
