@@ -12,7 +12,8 @@ class Solution:
   def mainP2Aux(self, s: str, n: int, i: int) -> None:
     P1 = Print()
     if i == n:
-      return
+      print('\n')
+      return None
     else:
       print(s[i], end = "")
       mainP2Aux(self, s, n, i + 1)
