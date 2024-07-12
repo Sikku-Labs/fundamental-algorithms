@@ -7,7 +7,6 @@ bhatoresiddharth@gmail.com
 
 #include "print.h"
 
-
 void mainP2(char* s) {
     printString(s);
     return;
