@@ -11,3 +11,8 @@ void printString(char* s) {
     printf('\n');
     return;
 }
+
+void printCharacter(char c) {
+    printf("%c", c);
+    return;
+}
