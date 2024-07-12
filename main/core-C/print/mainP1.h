@@ -20,10 +20,7 @@ void mainP1Aux(char* s, int size1, int i) {
 }
 
 void mainP1(char* s) {
-    int size1 = 0;
-    while(s[size1] != '\0') {
-        size += 1;
-    }
+    int size1 = lenString(s);
     mainP1Aux(s, size1, 0);
     return;
 }
