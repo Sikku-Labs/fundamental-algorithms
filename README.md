@@ -1,2 +1,2 @@
 # fundamental-algorithms
-Fundamental Algorithms in various computer languages
+Fundamental algorithms in various computer languages.
