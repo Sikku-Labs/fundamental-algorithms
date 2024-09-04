@@ -2,7 +2,7 @@
 linked-list.py
 sidb95
 bhatoresiddharth@gmail.com 
-16 July, 3 Sep 2024
+16 July, 4 Sep 2024
 """
 
 class Node:
