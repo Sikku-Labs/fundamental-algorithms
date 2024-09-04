@@ -6,6 +6,6 @@ bhatoresiddharth@gmail.com
 """
 
 class Node:
-  def __init__(self);
-    self.val = 0
+  def __init__(self, val);
+    self.val = val
     self.next = None
